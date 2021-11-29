@@ -1,9 +1,8 @@
-
 <h1>E-Commerce Back End</h1>
     
 ## Description 
     
-A command-line application built from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
