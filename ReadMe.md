@@ -22,29 +22,36 @@
     
 ## Usage 
     
-- Run the app by entering:  `node server.js`;
+- GET request for '/' returns all the Products\Categories\Tags;
 
 <br>
-<img alt="Main Menu" src="assets/images/image01.jpg" />
+<img alt="Get All Product" src="assets/images/image02.jpg" />
 <br>
 
-- 
+- GET request for '/:id' returns specific Product\Category\Tag;
 
 <br>
-<img alt="Selecting choices" src="assets/images/image02.jpg" />
+<img alt="Get Specific Product" src="assets/images/image01.jpg" />
 <br>
 
-- 
+- PUT request for '/:id' updates specific Product\Category\Tag;
 
 <br>
-<img alt="Viewing db" src="assets/images/image03.jpg" />
+<img alt="Updating Product" src="assets/images/image03.jpg" />
 <br>
 
-- 
+- CREATE request for '/' creates  Product\Category\Tag;
 
 <br>
-<img alt="Exiting" src="assets/images/image04.jpg" />
+<img alt="Creating Product" src="assets/images/image04.jpg" />
 <br>
+
+- DELETE request for '/:id' deletes  specific Product\Category\Tag;
+
+<br>
+<img alt="Deleting Product" src="assets/images/image05.jpg" />
+<br>
+
 
 
 <h3>Application`s usage video-walkthrough:</h3>
