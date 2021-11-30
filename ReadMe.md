@@ -2,7 +2,7 @@
     
 ## Description 
     
-
+This is a back end for an e-commerce site built by modifying starter code. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
