@@ -19,6 +19,7 @@
 - Clone the repo to the working directory | `gh repo clone Valllerian/E-Commerce-Back-End`;
 - Enter working directory;
 - Make sure to install dependencies `npm install`
+- Run Insomnia to test requests;
     
 ## Usage 
     
