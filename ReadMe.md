@@ -56,7 +56,7 @@
 
 
 <h3>Application`s usage video-walkthrough:</h3>
-<a href="" target="_blank">Watch on YouTube</a>
+<a href="https://youtu.be/N7JQ4IiRoJI" target="_blank">Watch on YouTube</a>
 
 ## License
     
